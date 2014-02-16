@@ -1,0 +1,5 @@
+d:\Work\Programok\ieszk\Vektoros\Vektoros\bin\Debug\Vektoros.exe
+d:\Work\Programok\ieszk\Vektoros\Vektoros\bin\Debug\Vektoros.pdb
+d:\Work\Programok\ieszk\Vektoros\Vektoros\obj\x86\Debug\Vektoros.csprojResolveAssemblyReference.cache
+d:\Work\Programok\ieszk\Vektoros\Vektoros\obj\x86\Debug\Vektoros.exe
+d:\Work\Programok\ieszk\Vektoros\Vektoros\obj\x86\Debug\Vektoros.pdb
